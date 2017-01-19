@@ -1,15 +1,53 @@
 .ronny {
   float: left;
+  width: 350px;
+  background-color: pink;
+  border: 5px solid black;
+  margin-left: 5px;
 }
 
 .sammy {
   float: left;
+  width: 350px;
+  background-color: lightgreen;
+  border: 5px solid black;
+  margin-left: 5px;
 }
 
 .doug {
   float: left;
+  width: 400px;
+  background-color: tan;
+  border: 5px solid black;
+  margin-left: 5px;
+}
+
+.doug h1 {
+  margin-left: 30%;
 }
 
 .barry {
   float: left;
+  width: 400px;
+  background-color: skyblue;
+  border: 5px solid black;
+  margin-left: 5px;
+}
+
+.barry h1 {
+  margin-left: 25%;
+}
+
+h1 {
+  margin-left: 15%;
+
+}
+
+p {
+  padding: 5px;
+}
+
+li {
+  
+  padding: 5px;
 }
